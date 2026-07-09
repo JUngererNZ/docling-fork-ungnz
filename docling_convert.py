@@ -14,7 +14,7 @@ import re
 # ==========================================================
 
 SOURCE_FOLDER = Path(
-    r"C:\Users\Jason\OneDrive - FML Freight Solutions\Microsoft Copilot Chat Files"
+    r"C:\Users\Jason\Projects\C:\Users\Jason\OneDrive - FML Freight Solutions\Microsoft Copilot Chat Files"
 )
 
 OUTPUT_ROOT = SOURCE_FOLDER / "_json_output"
